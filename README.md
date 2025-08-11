@@ -2,10 +2,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/fre2dom0">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:seninmailadresin@gmail.com">
+<a href="mailto:fre2dom0@gmail.com">
   <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
@@ -23,8 +20,8 @@ Professional Software Developer focused on modern web and blockchain solutions. 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,express,sql" />
-  <img src="https://img.shields.io/badge/-Wagmi-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wagmi-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/-Viem-1E293B?style=for-the-badge&logo=ethereum&logoColor=white" />
 </div>
 
