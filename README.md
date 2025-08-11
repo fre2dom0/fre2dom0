@@ -30,8 +30,8 @@ Professional Software Developer focused on modern web and blockchain solutions. 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img style='height: 80px' src="https://github-readme-stats.vercel.app/api?username=fre2dom0&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img style='height: 80px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fre2dom0&layout=compact&theme=radical" alt="Top Languages" />
+  <img style='height: 400px' src="https://github-readme-stats.vercel.app/api?username=fre2dom0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img style='height: 400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fre2dom0&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
